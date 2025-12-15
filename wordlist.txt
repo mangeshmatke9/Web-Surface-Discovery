@@ -252,6 +252,7 @@ clients
 cron
 auth
 vp
+metrics
 internal
 js-lib
 community
