@@ -3,6 +3,16 @@ images
 admin
 includes
 modules
+heapdump
+.env
+env
+url
+redirect
+callback
+history
+robots
+dump
+backup
 templates
 cache
 media
